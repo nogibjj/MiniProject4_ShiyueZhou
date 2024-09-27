@@ -1,6 +1,7 @@
 # MiniProject1_ShiyueZhou
+[![CI-Python Application Test with Github Actions](https://github.com/nogibjj/MiniProject4_ShiyueZhou/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/MiniProject4_ShiyueZhou/actions/workflows/ci.yml)
 
-Based on the requirement of miniproject in week2, this will work on the following file/folder to develop the Python Template Sample.  
+Based on the requirement of miniproject in week4, the following help to work through the Github Actions Matrix Build and the other structures.  
 
 # Github Actions Matrix Build<br>
 Existed in the **Jobs (`jobs`)** of `.github/workflows/ci.yml`  
